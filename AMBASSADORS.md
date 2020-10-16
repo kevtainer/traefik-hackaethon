@@ -1,6 +1,6 @@
 # The Traefik Ambassador Program
 
-<img src="https://lh5.googleusercontent.com/eA7pqcvgSLoH4MJU0qYDwCeRa8Jvj_agOsgTebJUj-QE2njOvBxuBwyhluYtHM5E1IAuzQ0w3hGzjiUe71qB=w1555-h938">
+<img src="static/ambassador.png">
 
 ## What It Is & Why Join
 
