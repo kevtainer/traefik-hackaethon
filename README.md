@@ -16,4 +16,6 @@ This repository contains information that will help guide contributors during th
 - [Prizes](/PRIZES.md) - All contributors who are not employees of Traefik Labs are eligible for the prizes and giveaways
 - [Code of Conduct](/CONDUCT.md) - All attendees, including staff members, must abide by the event CoC
 
-> Copyright 2020 - Traefik Labs - [LICENSE](/LICENSE)
+---
+
+##### © 2020 Traefik Labs, Inc. :: [LICENSE](/LICENSE)
