@@ -11,10 +11,6 @@ When these proposals weren't aligned to the vision of the Traefik community they
 Here are some great ideas for middleware plugins that drew from issues on the Traefik repository.
 
 ## Popular Middleware Ideas
-### Forward-Auth with Selective Headers
-<a href="https://github.com/containous/traefik/issues/6493">https://github.com/containous/traefik/issues/6493</a>
-
-The forward auth middleware included with Traefik will forward all headers included in the original request. But in some cases, users may want to exclude specific headers from the forwarded request. Instead, they would rather the headers are forwarded only in the response from the auth server.
 
 ### Query Parameter Modification
 
