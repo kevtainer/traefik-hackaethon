@@ -1,10 +1,4 @@
 
----
-
-[VIDEO : Meetup / Webinar covering how to build your own plugin]()
-
----
-
 # Traefik Hackaethon 2020: Middleware Plugins Brain Dump
 
 <img src="https://containous.ghost.io/content/images/2020/10/Traefik-Hackaethon-2020---Middleware-Plugins-Brain-Dump.jpg">
@@ -14,9 +8,7 @@ Over the past several years, Traefik has received dozens of ideas and concepts f
 
 When these proposals weren't aligned to the vision of the Traefik community they languished on the Traefik issue board. There they lay dormant, waiting for the day that users could easily build <a href="https://traefik.io/blog/unleash-custom-networking-logic-with-traefik-plugins/">custom plugins for Traefik</a>. That day is here, and this post will provide an outline for those interested in building and extending the capabilities of Traefik with their own middlewares.
 
-The team at Traefik Labs will be hosting a Hackathon next week, and plugins are a significant theme. Awards, bounties, and prizes are available for those who participate. You can learn more and <a href="https://info.traefik.io/traefik-hackaethon-2020">sign up here</a>. In the meantime, here are some great ideas for middleware plugins that drew from issues on the Traefik repository.
-
-<img src="https://containous.ghost.io/content/images/2020/10/Haekaton-scene.svg">
+Here are some great ideas for middleware plugins that drew from issues on the Traefik repository.
 
 ## Popular Middleware Ideas
 ### Forward-Auth with Selective Headers
@@ -88,12 +80,4 @@ There are other plugin ideas out there. We don't want to limit your creativity, 
 - Containers on Demand - <a href="https://github.com/traefik/traefik/issues/6993">https://github.com/traefik/traefik/issues/6993</a>
 - Open Policy Agent - <a href="https://github.com/traefik/traefik/issues/4894">https://github.com/traefik/traefik/issues/4894</a>
 
-## Wrapping Up
-
-<img src="https://containous.ghost.io/content/images/2020/10/Twitter.jpg">
-
-In addition to the plugin ideas curated above, we are working on putting together a list of issues that contributors can work on if they're not interested in building a plugin. We want to ensure that anyone can participate in the Hackaethon, including features, bugs, and documentation tasks that anyone can pick up and start working on.
-
-For those interested in building custom plugins, we have a meetup scheduled next week before the Hackaethon to demonstrate how easy they are to develop. You can <a href="https://us02web.zoom.us/webinar/register/WN_9LpcglyRSJy89iEYN0ZsbQ" rel="nofollow" target="_blank">sign up for the plugin meetup</a> and receive the link today. We’re looking forward to seeing everyone at the meetup and the Hackaethon next week and look forward to seeing what you build.
-
-src: [https://traefik.io/blog/traefik-hackaethon-2020-middleware-plugins-brain-dump/](https://traefik.io/blog/traefik-hackaethon-2020-middleware-plugins-brain-dump/)
+> src: [https://traefik.io/blog/traefik-hackaethon-2020-middleware-plugins-brain-dump/](https://traefik.io/blog/traefik-hackaethon-2020-middleware-plugins-brain-dump/)
