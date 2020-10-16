@@ -1,5 +1,7 @@
 The following Issues have been selected as needing help and are good candidates for first contributions.
 
+Is there another issue you see on our projects that aren't in this list that you're interested in working on? Please don't hesistate to ask the maintainers in the appropriate discussion channel about the issue and then claim it as yours!
+
 - [feature] [#6108 - Add status section for IngressRoute](https://github.com/traefik/traefik/issues/6108)
 - [feature] [#6895 - Kubernetes Ingress: Propagate errors to Ingress object](https://github.com/traefik/traefik/issues/6895)
 - [feature] [#6839 - Support for $scheme$host$request_uri variables](https://github.com/traefik/traefik/issues/6839)

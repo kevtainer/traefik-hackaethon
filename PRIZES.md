@@ -1,8 +1,10 @@
 # Prize Eligibility
 
-All participants will receive a limited edition t-shirt and stickers. You must provide proof of your contribution through [this form](https://forms.gle/DwGto9niCuxi84qM9) once you've either submitted a PR or created a plugin.
+<img src="https://containous.ghost.io/content/images/2020/10/Twitter.jpg">
 
-Attendees who participate in the Hackaethon are eligible for the following giveaways and prizes:
+All participants will receive a limited edition t-shirt and stickers. You must provide proof of your contribution through [this form](https://forms.gle/DwGto9niCuxi84qM9) once you've either submitted a PR or created a plugin. Eligibility for the limited t-shirt and sticker will be determined on a case-by-case basis (spam or insignificant contributions will be ignored).
+
+Attendees who contribute in the Hackaethon are eligible for the following giveaways and prizes:
 
 ## Grand Prizes
 
