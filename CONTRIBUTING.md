@@ -34,7 +34,7 @@ Not sure how to get started? Check out our document covering many [popular plugi
 - Wait for confirmation before starting any work
 - Crush it, don't be afraid to ask questions in the `#discuss-plugins` channel
 - Once completed, please publish your plugin to Github and [submit the details of your contribution in this form](https://forms.gle/DwGto9niCuxi84qM9) if you want to be eligible for prizes and swag
-- You're now eligable to be a Traefik Ambassador! Learn more about the program and sign up [here](/AMBASSADORS.md)
+- You're now eligable to be a Traefik Ambassador! [Learn more about the program and sign up here](/AMBASSADORS.md)
 
 ### Working on Existing Issues on the Traefik Labs open source repositories
 
@@ -47,7 +47,7 @@ Not sure where to get started? Check out our [good first issues](/ISSUES.md) doc
 - Crush it, don't be afraid to ask questions in the `#discuss-traefik`, `#discuss-yaegi` or `#discuss-mesh` channels
 - Once completed, please open a PR that follows our [Submitting Pull Requests](https://doc.traefik.io/traefik/contributing/submitting-pull-requests/) guide
 - [Submit the details of your contribution in this form](https://forms.gle/DwGto9niCuxi84qM9) if you want to be eligible for prizes and swag
-- You're now eligable to be a Traefik Ambassador! Learn more about the program and sign up [here](/AMBASSADORS.md)
+- You're now eligable to be a Traefik Ambassador! [Learn more about the program and sign up here](/AMBASSADORS.md)
 
 ### Creating a new Issue on the Traefik Labs open source repositories
 
@@ -62,7 +62,7 @@ Not sure where to get started? Check out our [good first issues](/ISSUES.md) doc
 - Wait for confirmation before starting any work
 - Once completed, please open a PR that follows our [Submitting Pull Requests](https://doc.traefik.io/traefik/contributing/submitting-pull-requests/) guide
 - [Submit the details of your contribution in this form](https://forms.gle/DwGto9niCuxi84qM9) if you want to be eligible for prizes and swag
-- You're now eligable to be a Traefik Ambassador! Learn more about the program and sign up [here](/AMBASSADORS.md)
+- You're now eligable to be a Traefik Ambassador! [Learn more about the program and sign up here](/AMBASSADORS.md)
 
 ## Abandoned work
 
