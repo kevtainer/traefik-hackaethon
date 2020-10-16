@@ -26,7 +26,7 @@ See the details below on what you should do to ensure that we don't duplicate ef
 
 ### Working on a Plugin
 
-Not sure how to get started? Check out our document covering many [popular plugin ideas](/PLUGINS.md), and watch the [meetup video]() on how to create and publish your own plugin!
+Not sure how to get started? Check out our document covering many [popular plugin ideas](/PLUGINS.md), and watch the [meetup video](https://traefik.io/resources/plugin-to-traefik-create-and-publish-your-own-middleware-3/) on how to create and publish your own plugin!
 
 - Ensure your plugin doesn't already exist by viewing the [plugin marketplace](https://pilot.traefik.io/plugins) on Pilot
 - Create a repository on your personal Github account which will house your newly created plugin
