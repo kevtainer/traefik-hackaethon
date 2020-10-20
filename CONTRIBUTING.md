@@ -46,6 +46,7 @@ Not sure where to get started? Check out our [good first issues](/ISSUES.md) doc
 - Wait for confirmation before starting any work
 - Crush it, don't be afraid to ask questions in the `#discuss-traefik`, `#discuss-yaegi` or `#discuss-mesh` channels
 - Once completed, please open a PR that follows our [Submitting Pull Requests](https://doc.traefik.io/traefik/contributing/submitting-pull-requests/) guide
+  - Opening a Draft / WIP PR may cause our CI/build system to become overwhelmed! Please hold off on PRs until you're ready for a review. If you need help with your contribution, please share a link to your fork/branch in the corresponding issue and we can assist you from there
 - [Submit the details of your contribution in this form](https://forms.gle/DwGto9niCuxi84qM9) if you want to be eligible for prizes and swag
 - You're now eligable to be a Traefik Ambassador! [Learn more about the program and sign up here](/AMBASSADORS.md)
 
@@ -61,6 +62,7 @@ Not sure where to get started? Check out our [good first issues](/ISSUES.md) doc
 - Send a link to the issue and a link to your fork to the moderator on call listed above on Discord
 - Wait for confirmation before starting any work
 - Once completed, please open a PR that follows our [Submitting Pull Requests](https://doc.traefik.io/traefik/contributing/submitting-pull-requests/) guide
+  - Opening a Draft / WIP PR may cause our CI/build system to become overwhelmed! Please hold off on PRs until you're ready for a review. If you need help with your contribution, please share a link to your fork/branch in the corresponding issue and we can assist you from there
 - [Submit the details of your contribution in this form](https://forms.gle/DwGto9niCuxi84qM9) if you want to be eligible for prizes and swag
 - You're now eligable to be a Traefik Ambassador! [Learn more about the program and sign up here](/AMBASSADORS.md)
 
