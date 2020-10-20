@@ -16,6 +16,7 @@ Work-in-progress
 * https://github.com/traefik/traefik/issues/2151
 * https://github.com/tomtastic/traefik/tree/issue4402
 * https://github.com/tomMoulard/htransformation
+* https://github.com/traefik/traefik/issues/4202
 
 Notes
 ---
