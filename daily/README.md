@@ -10,8 +10,8 @@ Contributions
 
 Work-in-progress
 ---
-https://github.com/danieladams456/traefik-plugin-header-rewrite-dynamodb
-https://github.com/dgzlopes/traefik-fault-injection
+* https://github.com/danieladams456/traefik-plugin-header-rewrite-dynamodb
+* https://github.com/dgzlopes/traefik-fault-injection
 
 Notes
 ---
