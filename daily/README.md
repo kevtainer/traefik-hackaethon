@@ -13,6 +13,7 @@ Work-in-progress
 
 | Discord Handle | Link to Contribution                                                     |
 |----------------|--------------------------------------------------------------------------|
+| Rafpe          | https://github.com/traefik/traefik/issues/2039                           |
 | Zittoone       | https://github.com/acouvreur/traefik-ondemand-plugin                     |
 | danieladams456 | https://github.com/danieladams456/traefik-plugin-header-rewrite-dynamodb |
 | dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection                      |
