@@ -15,6 +15,7 @@ Work-in-progress
 * https://github.com/kingjan1999/traefik-plugin-exception-authbasic
 * https://github.com/traefik/traefik/issues/2151
 * https://github.com/tomtastic/traefik/tree/issue4402
+* https://github.com/tomMoulard/htransformation
 
 Notes
 ---
