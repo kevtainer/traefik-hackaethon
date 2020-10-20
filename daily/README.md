@@ -10,16 +10,22 @@ Contributions
 
 Work-in-progress
 ---
-* https://github.com/danieladams456/traefik-plugin-header-rewrite-dynamodb
-* https://github.com/dgzlopes/traefik-fault-injection
-* https://github.com/kingjan1999/traefik-plugin-exception-authbasic
-* https://github.com/traefik/traefik/issues/2151
-* https://github.com/tomtastic/traefik/tree/issue4402
-* https://github.com/tomMoulard/htransformation
-* https://github.com/rsteube/traefik-plugin-brotli
 
+| Discord Handle | Link to Contribution                                                     |
+|----------------|--------------------------------------------------------------------------|
+| Zittoone       | https://github.com/acouvreur/traefik-ondemand-plugin                     |
+| danieladams456 | https://github.com/danieladams456/traefik-plugin-header-rewrite-dynamodb |
+| dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection                      |
+|                | https://github.com/kingjan1999/traefik-plugin-exception-authbasic        |
+|                | https://github.com/traefik/traefik/issues/2151                           |
+|                | https://github.com/tomtastic/traefik/tree/issue4402                      |
+|                | https://github.com/tomMoulard/htransformation                            |
+| rsteube        | https://github.com/rsteube/traefik-plugin-brotli                         |
+ 
 Notes
 ---
+
+* Missing some discord handles for WIP
 
 ---
 # October 21, 2020
