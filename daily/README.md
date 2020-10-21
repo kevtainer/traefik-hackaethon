@@ -42,6 +42,8 @@ Work-in-progress
 | mingdao        | https://github.com/traefik/traefik/issues/7112                           |
 | Mayalabielle   | https://github.com/traefik/traefik/issues/2151                           |
 | Sylvain        | https://github.com/traefik/traefik/issues/878                            |
+| ink            | https://github.com/traefik/traefik/issues/4402                           |
+| Clement<br>Tom M <br> Martin H <br> Alexandre Bossut-Lasry        | https://github.com/traefik/traefik/issues/4402                           |
 
 Notes
 ---
@@ -60,4 +62,4 @@ Notes
 
 ---
 
-###### _last-updated: 10/21/2020 09:10:00_ (CEST)
+###### _last-updated: 10/21/2020 09:20:00_ (CEST)
