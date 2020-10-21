@@ -44,8 +44,11 @@ Work-in-progress
 | Sylvain        | https://github.com/traefik/traefik/issues/878                            |
 | ink            | https://github.com/traefik/traefik/issues/4402                           |
 | Clement<br>Tom M <br> Martin H <br> Alexandre Bossut-Lasry        | https://github.com/traefik/traefik/issues/4402                           |
-| Jb31            | https://github.com/kingjan1999/traefik-plugin-exception-authbasic       |
+| Jb31           | https://github.com/kingjan1999/traefik-plugin-exception-authbasic        |
 | Zittoone <br>Thyvador | https://github.com/acouvreur/traefik-ondemand-plugin              |
+| Bullcharge     | https://github.com/tomMoulard/htransformation                            |
+
+
 
 Notes
 ---
@@ -64,4 +67,4 @@ Notes
 
 ---
 
-###### _last-updated: 10/21/2020 09:33:00_ (CEST)
+###### _last-updated: 10/21/2020 09:37:00_ (CEST)
