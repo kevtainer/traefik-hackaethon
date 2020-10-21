@@ -37,6 +37,11 @@ Contributions
 Work-in-progress
 ---
 
+| Discord Handle | Link to Contribution                                                     |
+|----------------|--------------------------------------------------------------------------|
+| mingdao        | https://github.com/traefik/traefik/issues/7112                           |
+| Mayalabielle   | https://github.com/traefik/traefik/issues/2151
+
 Notes
 ---
 
