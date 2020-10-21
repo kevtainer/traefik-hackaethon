@@ -48,6 +48,7 @@ Work-in-progress
 | Zittoone <br>Thyvador | https://github.com/acouvreur/traefik-ondemand-plugin              |
 | Bullcharge     | https://github.com/tomMoulard/htransformation                            |
 | rsteube        | https://github.com/rsteube/traefik-plugin-brotli <br> https://github.com/traefik/yaegi/compare/master...rsteube:master                        |
+| dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection <br> https://github.com/dgzlopes/traefik-notification                     |
 
 
 
@@ -68,4 +69,4 @@ Notes
 
 ---
 
-###### _last-updated: 10/21/2020 11:00:00_ (CEST)
+###### _last-updated: 10/21/2020 12:00:00_ (CEST)
