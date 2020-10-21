@@ -44,6 +44,8 @@ Work-in-progress
 | Sylvain        | https://github.com/traefik/traefik/issues/878                            |
 | ink            | https://github.com/traefik/traefik/issues/4402                           |
 | Clement<br>Tom M <br> Martin H <br> Alexandre Bossut-Lasry        | https://github.com/traefik/traefik/issues/4402                           |
+| Jb31            | https://github.com/kingjan1999/traefik-plugin-exception-authbasic                       |
+
 
 Notes
 ---
