@@ -49,8 +49,7 @@ Work-in-progress
 | Bullcharge     | https://github.com/tomMoulard/htransformation                            |
 | rsteube        | https://github.com/rsteube/traefik-plugin-brotli <br> https://github.com/traefik/yaegi/compare/master...rsteube:master                        |
 | dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection <br> https://github.com/dgzlopes/traefik-notification                     |
-
-
+| Mike SPROW#0299 | https://github.com/MikeSPROW/TraefikPlugin-fail2ban <br> https://github.com/tomMoulard/fail2ban |
 
 Notes
 ---
