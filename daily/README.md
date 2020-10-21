@@ -40,7 +40,8 @@ Work-in-progress
 | Discord Handle | Link to Contribution                                                     |
 |----------------|--------------------------------------------------------------------------|
 | mingdao        | https://github.com/traefik/traefik/issues/7112                           |
-| Mayalabielle   | https://github.com/traefik/traefik/issues/2151
+| Mayalabielle   | https://github.com/traefik/traefik/issues/2151                           |
+| Sylvain        | https://github.com/traefik/traefik/issues/878                            |
 
 Notes
 ---
@@ -59,4 +60,4 @@ Notes
 
 ---
 
-###### _last-updated: 10/15/2020 13:32:00_
+###### _last-updated: 10/21/2020 09:10:00_ (CEST)
