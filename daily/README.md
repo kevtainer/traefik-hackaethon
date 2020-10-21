@@ -48,7 +48,7 @@ Work-in-progress
 | Zittoone <br>Thyvador | https://github.com/acouvreur/traefik-ondemand-plugin              |
 | Bullcharge     | https://github.com/tomMoulard/htransformation                            |
 | rsteube        | https://github.com/rsteube/traefik-plugin-brotli <br> https://github.com/traefik/yaegi/compare/master...rsteube:master                        |
-| dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection <br> https://github.com/dgzlopes/traefik-notification                     |
+| dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection <br> https://github.com/dgzlopes/traefik-datadog-event                  |
 | Mike SPROW#0299 | https://github.com/MikeSPROW/TraefikPlugin-fail2ban <br> https://github.com/tomMoulard/fail2ban |
 
 Notes
