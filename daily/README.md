@@ -76,10 +76,11 @@ Work-in-progress
 | rsteube        | https://github.com/rsteube/traefik-plugin-brotli <br> https://github.com/traefik/yaegi/compare/master...rsteube:master                        |
 | dgzlopes       | https://github.com/dgzlopes/traefik-fault-injection <br> https://github.com/dgzlopes/traefik-datadog-event                  |
 | Mike SPROW#0299 | https://github.com/MikeSPROW/TraefikPlugin-fail2ban <br> https://github.com/tomMoulard/fail2ban |
+| danieladams456 | https://github.com/traefik/traefik/issues/5282 |
 
 Notes
 ---
 
 ---
 
-###### _last-updated: 10/22/2020 11:24:00_ (CEST)
+###### _last-updated: 10/22/2020 11:39:00_ (CEST)
