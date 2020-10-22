@@ -14,3 +14,4 @@ Is there another issue you see on our projects that aren't in this list that you
 - [docs] [#7291 - add noop@internal in the docs](https://github.com/traefik/traefik/issues/7291)
 - WIP ~[docs] [#7112 - Add full example of proper IngressRouteTCP usage](https://github.com/traefik/traefik/issues/7112)~
 - [docs] [#7297 - Need Documentation on Sticky Sessions](https://github.com/traefik/traefik/issues/7297)
+- [feature] [plugin-rewritebody #12 - Support a "match once" option](https://github.com/traefik/plugin-rewritebody/issues/12)
